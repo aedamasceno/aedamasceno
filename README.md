@@ -1,4 +1,4 @@
-Emanuel Damasceno
+Antonio Emanuel Damasceno
 Cisco CCIE Collaboration #40965 · Linux & AI Infrastructure Engineer · Law Enforcement Professional
 
 I build practical, privacy-conscious technology at the intersection of open-source software, enterprise infrastructure, and public safety.
